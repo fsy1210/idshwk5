@@ -1,6 +1,3 @@
-# __TEST_PY__
-# idshwk5
-
 from sklearn.ensemble import RandomForestClassifier
 
 class Domain:
@@ -85,4 +82,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#__END_OF_TEST_PY__
+
